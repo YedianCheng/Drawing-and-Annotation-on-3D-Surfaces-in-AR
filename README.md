@@ -27,7 +27,7 @@ The Unity project we created is inside the *UnityProjects/ARDrawing* folder, and
 6. Data Analysis: The data analysis code can be found in the *Assets/Scripts/DataAnalysis* folder.
 7. Document: The project proposal, presentation slides, poster and paper can be found in the *Document* folder.
 8. User Study: The data from the user study is located in the *UserStudy* folder.
-9. Video: Showcase: Presentation[Presentation](https://youtu.be/TxaIYqDD-fE)
+9. Video: [Showcase](https://youtu.be/ahOZSA_7itI)[Presentation](https://youtu.be/TxaIYqDD-fE)
 # Reference
 
 1. Rahul Arora et al., “Mid-Air Drawing of Curves on 3D Surfaces in
